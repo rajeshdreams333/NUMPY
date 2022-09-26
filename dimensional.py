@@ -17,5 +17,5 @@ arr3=np.array([[[1,2,3],[4,5,6]],[[1,2,3],[0,0,0]]])
 
 print(arr.ndim)
 print(arr1.ndim)
-print(arr2.ndim)
+print(arr2.ndim)c
 print(arr3.ndim)
